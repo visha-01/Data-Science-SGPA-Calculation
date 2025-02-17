@@ -1,1 +1,1 @@
-# Data-Science-SGPA-Calculation
+This project calculates the Semester Grade Point Average (SGPA) based on student grades and credit hours. It is useful for academic institutions and students to determine their performance in a given semester.
